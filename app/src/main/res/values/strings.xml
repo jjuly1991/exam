@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Exam app</string>
+    <string name="Мультфильмы">Cartoons</string>
+    <string name="Музыка">Music</string>
+    <string name="Сказки">Fairytale</string>
+    <string name="menu">Меню</string>
+    <string name="open_menu">Войти в меню</string>
+    <string name="open1">Открыть</string>
+    <string name="open2">Открыть</string>
+    <string name="open3">Открыть</string>
+    <string name="child_music">Детская музыка</string>
+    <string name="ЛучшиеМультфильмы">Лучшие мультфильмы</string>
+    <string name="tales">Интересные сказки</string>
+    <string name="fairy">Сказки</string>
+    <string name="back_button">Назад</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="happy_child">Happy Child</string>
+    <string name="made_by_me">Made by me</string>
+    <string name="made_by_me_with_a_little_help_ofcourse">made_by_me (with a little help,ofcourse</string>
+    <string name="banner_image">banner_image</string>
+    <string name="made_by_me_with_help_ofcaurse">Made by me,with help,ofcaurse</string>
+    <string name="choose">Избранное</string>
+    <string name="info">Информация</string>
+</resources>
